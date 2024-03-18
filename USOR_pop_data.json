@@ -1,0 +1,2032 @@
+[
+    {
+        "Zip Code": "84043",
+        "Population": "77,551",
+        "City": "Lehi",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84015",
+        "Population": "69,772",
+        "City": "Clearfield",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84096",
+        "Population": "69,619",
+        "City": "Herriman",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84404",
+        "Population": "65,940",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84074",
+        "Population": "55,917",
+        "City": "Tooele",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84041",
+        "Population": "55,009",
+        "City": "Layton",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84003",
+        "Population": "53,731",
+        "City": "American Fork",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84081",
+        "Population": "52,180",
+        "City": "West Jordan",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84790",
+        "Population": "51,773",
+        "City": "Saint George",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84120",
+        "Population": "51,391",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84119",
+        "Population": "51,180",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84020",
+        "Population": "50,635",
+        "City": "Draper",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84321",
+        "Population": "49,434",
+        "City": "Logan",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84065",
+        "Population": "48,759",
+        "City": "Riverton",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84062",
+        "Population": "47,430",
+        "City": "Pleasant Grove",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84770",
+        "Population": "47,207",
+        "City": "Saint George",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84010",
+        "Population": "47,030",
+        "City": "Bountiful",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84660",
+        "Population": "46,229",
+        "City": "Spanish Fork",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84005",
+        "Population": "45,638",
+        "City": "Eagle Mountain",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84401",
+        "Population": "45,346",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84604",
+        "Population": "44,575",
+        "City": "Provo",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84118",
+        "Population": "41,387",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84045",
+        "Population": "40,053",
+        "City": "Saratoga Springs",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84009",
+        "Population": "39,891",
+        "City": "South Jordan",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84121",
+        "Population": "39,759",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84037",
+        "Population": "39,342",
+        "City": "Kaysville",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84067",
+        "Population": "38,952",
+        "City": "Roy",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84088",
+        "Population": "38,785",
+        "City": "West Jordan",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84095",
+        "Population": "38,239",
+        "City": "South Jordan",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84057",
+        "Population": "38,222",
+        "City": "Orem",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84123",
+        "Population": "38,052",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84129",
+        "Population": "37,952",
+        "City": "Taylorsville",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84403",
+        "Population": "36,982",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84047",
+        "Population": "36,742",
+        "City": "Midvale",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84116",
+        "Population": "36,701",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84107",
+        "Population": "36,697",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84606",
+        "Population": "36,489",
+        "City": "Provo",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84663",
+        "Population": "35,731",
+        "City": "Springville",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84106",
+        "Population": "34,704",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84405",
+        "Population": "34,652",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84058",
+        "Population": "34,251",
+        "City": "Orem",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84075",
+        "Population": "32,861",
+        "City": "Syracuse",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84414",
+        "Population": "32,588",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84128",
+        "Population": "32,260",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84601",
+        "Population": "32,069",
+        "City": "Provo",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84084",
+        "Population": "31,933",
+        "City": "West Jordan",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84070",
+        "Population": "30,390",
+        "City": "Sandy",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84078",
+        "Population": "30,075",
+        "City": "Vernal",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84044",
+        "Population": "29,275",
+        "City": "Magna",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84780",
+        "Population": "29,212",
+        "City": "Washington",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84721",
+        "Population": "28,812",
+        "City": "Cedar City",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84115",
+        "Population": "28,623",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84651",
+        "Population": "28,593",
+        "City": "Payson",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84092",
+        "Population": "28,439",
+        "City": "Sandy",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84094",
+        "Population": "27,971",
+        "City": "Sandy",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84040",
+        "Population": "27,223",
+        "City": "Layton",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84302",
+        "Population": "26,601",
+        "City": "Brigham City",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84109",
+        "Population": "25,623",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84341",
+        "Population": "25,062",
+        "City": "Logan",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84032",
+        "Population": "24,748",
+        "City": "Heber City",
+        "County": "Wasatch",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84117",
+        "Population": "24,748",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84025",
+        "Population": "24,463",
+        "City": "Farmington",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84093",
+        "Population": "24,354",
+        "City": "Sandy",
+        "County": "Salt Lake",
+        "District Assigned": "South Valley"
+    },
+    {
+        "Zip Code": "84104",
+        "Population": "23,690",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84720",
+        "Population": "23,237",
+        "City": "Cedar City",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84103",
+        "Population": "23,155",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84124",
+        "Population": "22,918",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84105",
+        "Population": "22,797",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84737",
+        "Population": "22,153",
+        "City": "Hurricane",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84054",
+        "Population": "21,937",
+        "City": "North Salt Lake",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84097",
+        "Population": "21,774",
+        "City": "Orem",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84108",
+        "Population": "21,670",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84098",
+        "Population": "20,044",
+        "City": "Park City",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84102",
+        "Population": "19,165",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84087",
+        "Population": "16,772",
+        "City": "Woods Cross",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84014",
+        "Population": "16,740",
+        "City": "Centerville",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84655",
+        "Population": "16,111",
+        "City": "Santaquin",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84335",
+        "Population": "15,787",
+        "City": "Smithfield",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84059",
+        "Population": "15,667",
+        "City": "Orem",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84337",
+        "Population": "14,940",
+        "City": "Tremonton",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84066",
+        "Population": "14,181",
+        "City": "Roosevelt",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84029",
+        "Population": "13,357",
+        "City": "Grantsville",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84501",
+        "Population": "13,039",
+        "City": "Price",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84111",
+        "Population": "12,882",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84050",
+        "Population": "12,076",
+        "City": "Morgan",
+        "County": "Morgan",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84664",
+        "Population": "11,756",
+        "City": "Mapleton",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84042",
+        "Population": "11,478",
+        "City": "Lindon",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84653",
+        "Population": "10,950",
+        "City": "Salem",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84004",
+        "Population": "10,260",
+        "City": "Alpine",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84532",
+        "Population": "10,250",
+        "City": "Moab",
+        "County": "Grand",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84319",
+        "Population": "9,994",
+        "City": "Hyrum",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84315",
+        "Population": "9,535",
+        "City": "Hooper",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84738",
+        "Population": "9,282",
+        "City": "Ivins",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84701",
+        "Population": "8,721",
+        "City": "Richfield",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84036",
+        "Population": "8,629",
+        "City": "Kamas",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84060",
+        "Population": "8,615",
+        "City": "Park City",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84332",
+        "Population": "8,418",
+        "City": "Providence",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84765",
+        "Population": "7,625",
+        "City": "Santa Clara",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84101",
+        "Population": "7,358",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84648",
+        "Population": "7,158",
+        "City": "Nephi",
+        "County": "Juab",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84049",
+        "Population": "6,891",
+        "City": "Midway",
+        "County": "Wasatch",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84741",
+        "Population": "6,296",
+        "City": "Kanab",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84627",
+        "Population": "6,134",
+        "City": "Ephraim",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84339",
+        "Population": "5,915",
+        "City": "Wellsville",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84624",
+        "Population": "5,717",
+        "City": "Delta",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84318",
+        "Population": "5,298",
+        "City": "Hyde Park",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84312",
+        "Population": "4,939",
+        "City": "Garland",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84310",
+        "Population": "4,717",
+        "City": "Eden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84647",
+        "Population": "4,562",
+        "City": "Mount Pleasant",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84017",
+        "Population": "4,554",
+        "City": "Coalville",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84511",
+        "Population": "4,488",
+        "City": "Blanding",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84745",
+        "Population": "4,360",
+        "City": "La Verkin",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84526",
+        "Population": "4,257",
+        "City": "Helper",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84754",
+        "Population": "4,059",
+        "City": "Monroe",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84713",
+        "Population": "3,725",
+        "City": "Beaver",
+        "County": "Beaver",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84634",
+        "Population": "3,658",
+        "City": "Gunnison",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84056",
+        "Population": "3,482",
+        "City": "Hill Afb",
+        "County": "Davis",
+        "District Assigned": "Davis"
+    },
+    {
+        "Zip Code": "84642",
+        "Population": "3,365",
+        "City": "Manti",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84340",
+        "Population": "3,301",
+        "City": "Willard",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84629",
+        "Population": "3,273",
+        "City": "Fairview",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84021",
+        "Population": "3,272",
+        "City": "Duchesne",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84333",
+        "Population": "3,084",
+        "City": "Richmond",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84761",
+        "Population": "3,069",
+        "City": "Parowan",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84631",
+        "Population": "2,986",
+        "City": "Fillmore",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84645",
+        "Population": "2,937",
+        "City": "Mona",
+        "County": "Juab",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84535",
+        "Population": "2,885",
+        "City": "Monticello",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84528",
+        "Population": "2,801",
+        "City": "Huntington",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84320",
+        "Population": "2,746",
+        "City": "Lewiston",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84112",
+        "Population": "2,671",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84317",
+        "Population": "2,574",
+        "City": "Huntsville",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84654",
+        "Population": "2,535",
+        "City": "Salina",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84534",
+        "Population": "2,386",
+        "City": "Montezuma Creek",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84751",
+        "Population": "2,348",
+        "City": "Milford",
+        "County": "Beaver",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84071",
+        "Population": "2,266",
+        "City": "Stockton",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84325",
+        "Population": "2,263",
+        "City": "Mendon",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84759",
+        "Population": "2,199",
+        "City": "Panguitch",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84326",
+        "Population": "2,072",
+        "City": "Millville",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84774",
+        "Population": "2,034",
+        "City": "Toquerville",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84328",
+        "Population": "1,718",
+        "City": "Paradise",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84055",
+        "Population": "1,701",
+        "City": "Oakley",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84646",
+        "Population": "1,686",
+        "City": "Moroni",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84523",
+        "Population": "1,643",
+        "City": "Ferron",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84602",
+        "Population": "1,606",
+        "City": "Provo",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84662",
+        "Population": "1,594",
+        "City": "Spring City",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84725",
+        "Population": "1,566",
+        "City": "Enterprise",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84542",
+        "Population": "1,506",
+        "City": "Wellington",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84536",
+        "Population": "1,419",
+        "City": "Monument Valley",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84632",
+        "Population": "1,416",
+        "City": "Fountain Green",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84622",
+        "Population": "1,372",
+        "City": "Centerfield",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84324",
+        "Population": "1,348",
+        "City": "Mantua",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84513",
+        "Population": "1,347",
+        "City": "Castle Dale",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84537",
+        "Population": "1,340",
+        "City": "Orangeville",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84757",
+        "Population": "1,305",
+        "City": "New Harmony",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84052",
+        "Population": "1,285",
+        "City": "Myton",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84746",
+        "Population": "1,272",
+        "City": "Leeds",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84307",
+        "Population": "1,235",
+        "City": "Corinne",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84314",
+        "Population": "1,235",
+        "City": "Honeyville",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84083",
+        "Population": "1,163",
+        "City": "Wendover",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84724",
+        "Population": "1,107",
+        "City": "Elsinore",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84620",
+        "Population": "1,083",
+        "City": "Aurora",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84520",
+        "Population": "1,079",
+        "City": "East Carbon",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84784",
+        "Population": "1,076",
+        "City": "Hildale",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84033",
+        "Population": "1,051",
+        "City": "Henefer",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84327",
+        "Population": "1,041",
+        "City": "Newton",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84752",
+        "Population": "1,020",
+        "City": "Minersville",
+        "County": "Beaver",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84006",
+        "Population": "1,017",
+        "City": "Bingham Canyon",
+        "County": "Salt Lake",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84064",
+        "Population": "1,012",
+        "City": "Randolph",
+        "County": "Rich",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84760",
+        "Population": "1,008",
+        "City": "Paragonah",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84747",
+        "Population": "966",
+        "City": "Loa",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84652",
+        "Population": "963",
+        "City": "Redmond",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84783",
+        "Population": "943",
+        "City": "Dammeron Valley",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84628",
+        "Population": "927",
+        "City": "Eureka",
+        "County": "Juab",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84635",
+        "Population": "905",
+        "City": "Hinckley",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84722",
+        "Population": "902",
+        "City": "Central",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84525",
+        "Population": "890",
+        "City": "Green River",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84311",
+        "Population": "884",
+        "City": "Fielding",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84633",
+        "Population": "865",
+        "City": "Goshen",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84637",
+        "Population": "845",
+        "City": "Kanosh",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84026",
+        "Population": "831",
+        "City": "Fort Duchesne",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84711",
+        "Population": "818",
+        "City": "Annabella",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84726",
+        "Population": "815",
+        "City": "Escalante",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84714",
+        "Population": "811",
+        "City": "Beryl",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84639",
+        "Population": "803",
+        "City": "Levan",
+        "County": "Juab",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84649",
+        "Population": "795",
+        "City": "Oak City",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84518",
+        "Population": "793",
+        "City": "Cleveland",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84082",
+        "Population": "792",
+        "City": "Wallsburg",
+        "County": "Wasatch",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84779",
+        "Population": "787",
+        "City": "Virgin",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84301",
+        "Population": "779",
+        "City": "Bear River City",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84053",
+        "Population": "768",
+        "City": "Neola",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84512",
+        "Population": "762",
+        "City": "Bluff",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84309",
+        "Population": "735",
+        "City": "Deweyville",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84013",
+        "Population": "703",
+        "City": "Cedar Valley",
+        "County": "Utah",
+        "District Assigned": "Provo"
+    },
+    {
+        "Zip Code": "84001",
+        "Population": "693",
+        "City": "Altamont",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84657",
+        "Population": "693",
+        "City": "Sigurd",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84730",
+        "Population": "675",
+        "City": "Glenwood",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84767",
+        "Population": "666",
+        "City": "Springdale",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84305",
+        "Population": "659",
+        "City": "Clarkston",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84027",
+        "Population": "654",
+        "City": "Fruitland",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84028",
+        "Population": "653",
+        "City": "Garden City",
+        "County": "Rich",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84521",
+        "Population": "650",
+        "City": "Elmo",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84665",
+        "Population": "616",
+        "City": "Sterling",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84739",
+        "Population": "615",
+        "City": "Joseph",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84626",
+        "Population": "614",
+        "City": "Elberta",
+        "County": "Utah",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84758",
+        "Population": "611",
+        "City": "Orderville",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84531",
+        "Population": "606",
+        "City": "Mexican Hat",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84022",
+        "Population": "587",
+        "City": "Dugway",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84750",
+        "Population": "585",
+        "City": "Marysvale",
+        "County": "Piute",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84338",
+        "Population": "567",
+        "City": "Trenton",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84643",
+        "Population": "560",
+        "City": "Mayfield",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84636",
+        "Population": "526",
+        "City": "Holden",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84776",
+        "Population": "524",
+        "City": "Tropic",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84782",
+        "Population": "519",
+        "City": "Veyo",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84046",
+        "Population": "501",
+        "City": "Manila",
+        "County": "Daggett",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84039",
+        "Population": "497",
+        "City": "Lapoint",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84630",
+        "Population": "491",
+        "City": "Fayette",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84051",
+        "Population": "484",
+        "City": "Mountain Home",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84076",
+        "Population": "484",
+        "City": "Tridell",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84715",
+        "Population": "483",
+        "City": "Bicknell",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84035",
+        "Population": "472",
+        "City": "Jensen",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84038",
+        "Population": "471",
+        "City": "Laketown",
+        "County": "Rich",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84716",
+        "Population": "467",
+        "City": "Boulder",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84069",
+        "Population": "437",
+        "City": "Rush Valley",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84723",
+        "Population": "431",
+        "City": "Circleville",
+        "County": "Piute",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84336",
+        "Population": "416",
+        "City": "Snowville",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84667",
+        "Population": "415",
+        "City": "Wales",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84007",
+        "Population": "410",
+        "City": "Bluebell",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84086",
+        "Population": "407",
+        "City": "Woodruff",
+        "County": "Rich",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84656",
+        "Population": "400",
+        "City": "Scipio",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84072",
+        "Population": "384",
+        "City": "Tabiona",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84729",
+        "Population": "375",
+        "City": "Glendale",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84522",
+        "Population": "373",
+        "City": "Emery",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84330",
+        "Population": "371",
+        "City": "Plymouth",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84539",
+        "Population": "362",
+        "City": "Sunnyside",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84743",
+        "Population": "362",
+        "City": "Kingston",
+        "County": "Piute",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84756",
+        "Population": "360",
+        "City": "Newcastle",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84775",
+        "Population": "352",
+        "City": "Torrey",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84742",
+        "Population": "347",
+        "City": "Kanarraville",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84710",
+        "Population": "331",
+        "City": "Alton",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84638",
+        "Population": "328",
+        "City": "Leamington",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84306",
+        "Population": "322",
+        "City": "Collinston",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84316",
+        "Population": "315",
+        "City": "Howell",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84063",
+        "Population": "310",
+        "City": "Randlett",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84781",
+        "Population": "310",
+        "City": "Pine Valley",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84061",
+        "Population": "307",
+        "City": "Peoa",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84773",
+        "Population": "296",
+        "City": "Teasdale",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84018",
+        "Population": "291",
+        "City": "Croydon",
+        "County": "Morgan",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84740",
+        "Population": "288",
+        "City": "Junction",
+        "County": "Piute",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84736",
+        "Population": "286",
+        "City": "Henrieville",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84085",
+        "Population": "283",
+        "City": "Whiterocks",
+        "County": "Uintah",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84764",
+        "Population": "283",
+        "City": "Bryce",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84002",
+        "Population": "275",
+        "City": "Altonah",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84530",
+        "Population": "270",
+        "City": "La Sal",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84308",
+        "Population": "265",
+        "City": "Cornish",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84718",
+        "Population": "265",
+        "City": "Cannonville",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84113",
+        "Population": "259",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84744",
+        "Population": "259",
+        "City": "Koosharem",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84733",
+        "Population": "251",
+        "City": "Gunlock",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84644",
+        "Population": "244",
+        "City": "Meadow",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84772",
+        "Population": "234",
+        "City": "Summit",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84080",
+        "Population": "228",
+        "City": "Vernon",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84331",
+        "Population": "226",
+        "City": "Portage",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84734",
+        "Population": "223",
+        "City": "Hanksville",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84640",
+        "Population": "222",
+        "City": "Lynndyl",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84749",
+        "Population": "200",
+        "City": "Lyman",
+        "County": "Wayne",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84735",
+        "Population": "194",
+        "City": "Hatch",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84031",
+        "Population": "189",
+        "City": "Hanna",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84763",
+        "Population": "180",
+        "City": "Rockville",
+        "County": "Washington",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84334",
+        "Population": "178",
+        "City": "Riverside",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84073",
+        "Population": "165",
+        "City": "Talmage",
+        "County": "Duchesne",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84329",
+        "Population": "150",
+        "City": "Park Valley",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84766",
+        "Population": "147",
+        "City": "Sevier",
+        "County": "Sevier",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84034",
+        "Population": "146",
+        "City": "Ibapah",
+        "County": "Tooele",
+        "District Assigned": "Valley West"
+    },
+    {
+        "Zip Code": "84023",
+        "Population": "121",
+        "City": "Dutch John",
+        "County": "Daggett",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84712",
+        "Population": "121",
+        "City": "Antimony",
+        "County": "Garfield",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84304",
+        "Population": "105",
+        "City": "Cache Junction",
+        "County": "Cache",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84533",
+        "Population": "102",
+        "City": "Lake Powell",
+        "County": "San Juan",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84623",
+        "Population": "98",
+        "City": "Chester",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84529",
+        "Population": "95",
+        "City": "Kenilworth",
+        "County": "Carbon",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84762",
+        "Population": "88",
+        "City": "Duck Creek Village",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84024",
+        "Population": "79",
+        "City": "Echo",
+        "County": "Summit",
+        "District Assigned": "Salt Lake Downtown"
+    },
+    {
+        "Zip Code": "84408",
+        "Population": "75",
+        "City": "Ogden",
+        "County": "Weber",
+        "District Assigned": "Ogden"
+    },
+    {
+        "Zip Code": "84516",
+        "Population": "61",
+        "City": "Clawson",
+        "County": "Emery",
+        "District Assigned": "Eastern"
+    },
+    {
+        "Zip Code": "84719",
+        "Population": "60",
+        "City": "Brian Head",
+        "County": "Iron",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84728",
+        "Population": "59",
+        "City": "Garrison",
+        "County": "Millard",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84732",
+        "Population": "57",
+        "City": "Greenwich",
+        "County": "Piute",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84313",
+        "Population": "39",
+        "City": "Grouse Creek",
+        "County": "Box Elder",
+        "District Assigned": "Northern"
+    },
+    {
+        "Zip Code": "84621",
+        "Population": "32",
+        "City": "Axtell",
+        "County": "Sanpete",
+        "District Assigned": "Central"
+    },
+    {
+        "Zip Code": "84755",
+        "Population": "25",
+        "City": "Mount Carmel",
+        "County": "Kane",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84731",
+        "Population": "9",
+        "City": "Greenville",
+        "County": "Beaver",
+        "District Assigned": "Southern"
+    },
+    {
+        "Zip Code": "84150",
+        "Population": "7",
+        "City": "Salt Lake City",
+        "County": "Salt Lake",
+        "District Assigned": "Salt Lake Downtown"
+    }
+]
